@@ -1,0 +1,92 @@
+[
+  {
+    "image": "/images/food/featured-foods/Dolmeh.png",
+    "name": "???? ??? ???",
+    "price": "220",
+    "discount_percent": "8",
+    "score": "5",
+    "all_scores": "52",
+    "id": 1
+  },
+  {
+    "image": "/images/food/featured-foods/Esfenaj.png",
+    "name": "??????? ??????",
+    "price": "190",
+    "discount_percent": "17",
+    "score": "5",
+    "all_scores": "62",
+    "id": 2
+  },
+  {
+    "image": "/images/food/featured-foods/Bademjan.png",
+    "name": "??????? ??????",
+    "price": "150",
+    "discount_percent": "18",
+    "score": "4",
+    "all_scores": "32",
+    "id": 3
+  },
+  {
+    "image": "/images/food/featured-foods/Esfenaj.png",
+    "name": "??????? ??????",
+    "price": "190",
+    "discount_percent": "17",
+    "score": "5",
+    "all_scores": "62",
+    "id": 4
+  },
+  {
+    "image": "/images/food/featured-foods/Garch_Pizza.png",
+    "name": "????? ????",
+    "price": "215",
+    "discount_percent": "25",
+    "score": "3",
+    "all_scores": "33",
+    "id": 5
+  },
+  {
+    "image": "/images/food/featured-foods/Esfenaj.png",
+    "name": "??????? ??????",
+    "price": "190",
+    "discount_percent": "17",
+    "score": "5",
+    "all_scores": "62",
+    "id": 6
+  },
+  {
+    "image": "/images/food/featured-foods/Dolmeh.png",
+    "name": "???? ??? ???",
+    "price": "220",
+    "discount_percent": "8",
+    "score": "5",
+    "all_scores": "52",
+    "id": 7
+  },
+  {
+    "image": "/images/food/featured-foods/Garch_Pizza.png",
+    "name": "????? ????",
+    "price": "215",
+    "discount_percent": "25",
+    "score": "3",
+    "all_scores": "33",
+    "id": 8
+  },
+  {
+    "image": "/images/food/featured-foods/Bademjan.png",
+    "name": "??????? ??????",
+    "price": "150",
+    "discount_percent": "18",
+    "score": "4",
+    "all_scores": "32",
+    "id": 9
+  },
+  {
+    "image": "/images/food/featured-foods/Esfenaj.png",
+    "name": "??????? ??????",
+    "price": "190",
+    "discount_percent": "17",
+    "score": "5",
+    "all_scores": "62",
+    "id": 10
+  }
+]
