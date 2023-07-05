@@ -6,7 +6,7 @@ const fs=require('fs')
 const app=express()
 app.use(express.json())
 
-app.use('/api/v1/specialfoods',foodRoutes)
+app.use('https://nimaabf.github.io/tarkhineh/api/v1/specialfoods',foodRoutes)
 // const newFood=new foodModel({
 //     name:'Pizza',
 //     price:'123'
